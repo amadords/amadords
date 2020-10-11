@@ -113,6 +113,13 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
  
  
  
+
+<br />
+<br />
+<br />
+
+
+
  *Observação: O nickname foi alterado, por isso o baixo valor de commit.*
 
  

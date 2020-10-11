@@ -77,8 +77,6 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
           
   * **Desafio - Lambda3:** https://bit.ly/34aK0SY
 
-  * **Desafio - Lambda3:** https://bit.ly/34aK0SY
-
   
   ## Artigos 📝
   

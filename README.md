@@ -99,8 +99,6 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
  
  ![danielamador12's github stats](https://github-readme-stats.vercel.app/api?username=amadords&show_icons=true&theme=tokyonight)
  
- Observação: O nickname foi alterado, por isso o baixo valor de commit.
- 
  
  ### Agradecimento aos Tutores por todo suporte dado até aqui!
   
@@ -114,7 +112,8 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
  [<img align="left" alt="sigmoidal" width="70px" src="https://raw.githubusercontent.com/amadords/others/master/sigmoidal.png" />](https://sigmoidal.ai/)
  
  
- 
+  Observação: O nickname foi alterado, por isso o baixo valor de commit.
+
  
 
 

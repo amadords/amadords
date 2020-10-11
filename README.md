@@ -109,7 +109,7 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
  [<img align="left" alt="estatidados" width="50px" src="https://yt3.ggpht.com/a/AATXAJxGYHT7lMdH3kZ5JpNmeCg9-pjjBdthFvwja7s1Fg=s900-c-k-c0xffffffff-no-rj-mo" />](http://estatidados.com.br/)
 
  
- [<img align="left" alt="sigmoidal" width="70px" src="https://raw.githubusercontent.com/ds-amador/others/master/sigmoidal.png" />](https://sigmoidal.ai/)
+ [<img align="left" alt="sigmoidal" width="70px" src="https://raw.githubusercontent.com/amadords/others/master/sigmoidal.png" />](https://sigmoidal.ai/)
  
  
  

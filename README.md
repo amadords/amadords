@@ -59,7 +59,7 @@
 <br />
 
 
-Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento, clique [aqui](https://github.com/amadords/Portfolio/blob/master/Te%C3%B3ricos.md).
+Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/blob/master/Te%C3%B3ricos.md).
 
 ## Projetos 📈🤖
 

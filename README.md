@@ -77,6 +77,8 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
           
   * **Desafio - Lambda3:** https://bit.ly/34aK0SY
 
+  * **Desafio - Lambda3:** https://bit.ly/34aK0SY
+
   
   ## Artigos 📝
   
@@ -97,7 +99,7 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
  ---
 
  
- ![danielamador12's github stats](https://github-readme-stats.vercel.app/api?username=ds-amador&show_icons=true&theme=tokyonight)
+ ![danielamador12's github stats](https://github-readme-stats.vercel.app/api?username=amadords&show_icons=true&theme=tokyonight)
  
  
  ### Agradecimento aos Tutores por todo suporte dado até aqui!

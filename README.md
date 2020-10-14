@@ -60,15 +60,13 @@
 Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/blob/master/Te%C3%B3ricos.md).
 
 ## Projetos 📈🤖
-
 <img align="left" alt="colab" width="110px" src="https://raw.githubusercontent.com/amadords/others/master/open%20in%20colab.png" />
 
 <br />
 <br />
 
-clique no botão **Open in Colab** (ilustração acima) para obter a melhor experiência, especialmente no que concerne aos gráficos de bibliotecas como Folium e Plotly.
+*clique no botão* **Open in Colab** *(ilustração acima) para obter a melhor experiência, especialmente no que concerne aos gráficos de bibliotecas como Folium e Plotly.*
 
-<br />
 
   * **Prevendo Valores de Ações da PETR4**: https://bit.ly/36skE5J
   

@@ -61,7 +61,7 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
 
 ## Projetos 📈🤖
 
-<img align="left" alt="colab" width="120px" src="https://raw.githubusercontent.com/amadords/others/master/open%20in%20colab.png" />
+<img align="left" alt="colab" width="110px" src="https://raw.githubusercontent.com/amadords/others/master/open%20in%20colab.png" />
 
 <br />
 <br />

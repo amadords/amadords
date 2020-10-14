@@ -65,7 +65,17 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
 
 <img align="left" alt="colab" width="100px" src="https://raw.githubusercontent.com/amadords/others/master/open%20in%20colab.png" />
 
+<br />
+<br />
+<br />
+
+
 Nos projetos, clique no botão **Open in Colab** (exemplo acima) para obter a melhor experiência, especialmente no que concerne aos gráficos de bibliotecas como Folium e Plotly.
+
+<br />
+<br />
+<br />
+
 
 
 

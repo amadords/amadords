@@ -76,6 +76,8 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
   * **Storytelling com Dados:** https://bit.ly/2GoeUiD
           
   * **Desafio - Lambda3:** https://bit.ly/34aK0SY
+  
+  * **Análise de Sentimento (twitter):** https://bit.ly/2GVt1fQ
 
   
   ## Artigos 📝

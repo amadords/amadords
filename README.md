@@ -65,7 +65,7 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
 <br />
 <br />
 
-*Observação: Ao abrir o notebook, clique no botão* **Open in Colab** *(ilustração acima) para obter a melhor experiência, especialmente no que concerne aos gráficos de bibliotecas como Folium e Plotly.*
+*Observação: Ao abrir cada notebook, clique no botão* **Open in Colab** *(ilustração acima) para obter a melhor experiência, especialmente no que concerne aos gráficos de bibliotecas como Folium e Plotly.*
 
   * **Prevendo Valores de Ações da PETR4**: https://bit.ly/36skE5J
   

@@ -57,7 +57,7 @@
 <br />
 <br />
 
-Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/blob/master/Te%C3%B3ricos.md).
+Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/amadords/Portfolio/blob/master/Te%C3%B3ricos.md).
 
 ## Projetos 📈🤖
 <img align="left" alt="colab" width="110px" src="https://raw.githubusercontent.com/amadords/others/master/open%20in%20colab.png" />

@@ -101,11 +101,13 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Plante uma Árvore ou uma Floresta:** https://bit.ly/3ipydVK
 
   * **Portfólio no Overview do GitHub:** https://bit.ly/3dcQc0S
+  
+  * **Como utilizar o Plotly no Colab:** https://bit.ly/3j4t8CI
 
  ---
 
  
- ![danielamador12's github stats](https://github-readme-stats.vercel.app/api?username=amadords&show_icons=true&theme=tokyonight)
+ ![Amador's github stats](https://github-readme-stats.vercel.app/api?username=amadords&show_icons=true&theme=tokyonight)
  
  
  ### Agradecimento aos Tutores por todo suporte dado até aqui!

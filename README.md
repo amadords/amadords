@@ -103,6 +103,10 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Portfólio no Overview do GitHub:** https://bit.ly/3dcQc0S
   
   * **Como utilizar o Plotly no Colab:** https://bit.ly/3j4t8CI
+  
+  * **Manipulando dados do GSheet no Colab:** https://bit.ly/2HrR3iy
+  
+  * **Uma história em meio a várias estórias:** https://bit.ly/35r1eMy
 
  ---
 

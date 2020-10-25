@@ -106,7 +106,7 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   
   * **Manipulando dados do GSheet no Colab:** https://bit.ly/2HrR3iy
   
-  * **Uma história em meio a várias estórias:** https://bit.ly/35r1eMy
+  * **Uma história em meio à várias estórias:** https://bit.ly/35r1eMy
 
  ---
 

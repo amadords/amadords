@@ -107,6 +107,8 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Manipulando dados do GSheet no Colab:** https://bit.ly/2HrR3iy
   
   * **Uma história em meio à várias estórias:** https://bit.ly/35r1eMy
+  
+  * **Iniciante fazendo Freelancer como Data Scientist? É possível?:** https://bit.ly/31UC5Zv
 
  ---
 

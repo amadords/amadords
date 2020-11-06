@@ -109,6 +109,8 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Uma história em meio à várias estórias:** https://bit.ly/35r1eMy
   
   * **Iniciante fazendo Freelancer como Data Scientist? É possível?:** https://bit.ly/31UC5Zv
+  
+  * **Não tenha vergonha do seu trabalho!:** https://bit.ly/3l4mQEV
 
  ---
 

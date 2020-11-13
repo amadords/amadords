@@ -111,6 +111,8 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Iniciante fazendo Freelancer como Data Scientist? É possível?:** https://bit.ly/31UC5Zv
   
   * **Não tenha vergonha do seu trabalho!:** https://bit.ly/3l4mQEV
+  
+  * **Inteligência Artificial Explicável:** https://bit.ly/3eWN3TD
 
  ---
 

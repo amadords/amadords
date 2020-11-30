@@ -113,6 +113,8 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Inteligência Artificial Explicável:** https://bit.ly/3eWN3TD
 
   * **Cientista e Analista, Não é Redundante?:** https://bit.ly/38Y6NWd
+  
+  * **Você sabe o que é uma Variável Proxy?:** https://bit.ly/3ocgRPs 
  ---
 
  

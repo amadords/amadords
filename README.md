@@ -21,6 +21,7 @@
 
 - 🐧 **Usuário Linux.**
 
+- 👨‍🏫 **Professor.**
 
 
 ### Contatos 📭

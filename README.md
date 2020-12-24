@@ -120,6 +120,8 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Você sabe o que é uma Variável Proxy?:** https://bit.ly/3ocgRPs 
   
   * **Por que estar no LinkedIn?:** http://bit.ly/37vxpgd
+  
+  * **Verificando se há Clusters Naturais nos Dados:** http://bit.ly/2JioxB3
  ---
 
  

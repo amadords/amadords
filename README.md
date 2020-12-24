@@ -74,7 +74,7 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
 
   * **Classificador de Música Spotify:** https://bit.ly/3l44ELf
   
-  * **Clustering com Spotfiy:** http://bit.ly/3aSC9P5
+  * **Clustering com Spotify:** http://bit.ly/3aSC9P5
   
   * **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
   

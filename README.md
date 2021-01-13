@@ -122,6 +122,8 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Por que estar no LinkedIn?:** http://bit.ly/37vxpgd
   
   * **Verificando se há Clusters Naturais nos Dados:** http://bit.ly/2JioxB3
+  
+  * **Usando R no Google Colab:** http://bit.ly/2LQKtUH
  ---
 
  

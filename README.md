@@ -124,6 +124,8 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   * **Verificando se há Clusters Naturais nos Dados:** http://bit.ly/2JioxB3
   
   * **Usando R no Google Colab:** http://bit.ly/2LQKtUH
+  
+  * **Classificação MultiLabel:** http://bit.ly/3cgEioa
  ---
 
  

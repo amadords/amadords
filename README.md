@@ -86,7 +86,7 @@ Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/a
   
   * **Análise de Sentimento (twitter):** https://bit.ly/2GVt1fQ
 
-  * **Análise de Dados (Airbnb - Rio de Janeiro):** bit.ly/2MACyLK
+  * **Análise de Dados (Airbnb - Rio de Janeiro):** https://bit.ly/2MACyLK
 
   
   ## Artigos 📝

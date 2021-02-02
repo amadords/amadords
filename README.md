@@ -93,21 +93,21 @@
   
   ## Artigos 📝
   
-Extraindo tabela de PDF: https://bit.ly/2ZjV1zx
+* **Extraindo tabela de PDF:** https://bit.ly/2ZjV1zx
 
-Como utilizar o Plotly no Colab: https://bit.ly/3j4t8CI
+* **Como utilizar o Plotly no Colab:** https://bit.ly/3j4t8CI
 
-Manipulando dados do GSheet no Colab: https://bit.ly/2HrR3iy
+* **Manipulando dados do GSheet no Colab:** https://bit.ly/2HrR3iy
 
-Inteligência Artificial Explicável: https://bit.ly/3eWN3TD
+* **Inteligência Artificial Explicável:** https://bit.ly/3eWN3TD
 
-Você sabe o que é uma Variável Proxy?: https://bit.ly/3ocgRPs
+* **Você sabe o que é uma Variável Proxy?:** https://bit.ly/3ocgRPs
 
-Verificando se há Clusters Naturais nos Dados: http://bit.ly/2JioxB3
+* **Verificando se há Clusters Naturais nos Dados:** http://bit.ly/2JioxB3
 
-Usando R no Google Colab: http://bit.ly/2LQKtUH
+* **Usando R no Google Colab:** http://bit.ly/2LQKtUH
 
-Classificação MultiLabel: http://bit.ly/3cgEioa
+* **Classificação MultiLabel:** http://bit.ly/3cgEioa
 
  ---
 

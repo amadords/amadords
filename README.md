@@ -56,9 +56,9 @@
 <br />
 <br />
 
-:computer: Para notebooks com **teoria** e **tutoriais** clique [aqui](https://github.com/amadords/Portfolio/blob/master/Te%C3%B3ricos.md).
+:computer: Para **notebooks** com *teoria* e *tutoriais* clique [aqui](https://github.com/amadords/Portfolio/blob/master/Te%C3%B3ricos.md).
 
-:page_facing_up: Para mais artigos clique [aqui](https://github.com/amadords/amadords/blob/main/Outros-Artigos.md).
+:page_facing_up: Para mais **artigos** clique [aqui](https://github.com/amadords/amadords/blob/main/Outros-Artigos.md).
 
 ## Projetos 📈🤖
 <img align="left" alt="colab" width="110px" src="https://raw.githubusercontent.com/amadords/others/master/open%20in%20colab.png" />

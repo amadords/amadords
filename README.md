@@ -89,6 +89,8 @@
   * **Análise de Sentimento (twitter):** https://bit.ly/2GVt1fQ
 
   * **Análise de Dados (Airbnb - Rio de Janeiro):** https://bit.ly/2MACyLK
+  
+  * **Análise da Violência no Rio de Janeiro:** http://bit.ly/3aE24Id
 
   
   ## Artigos 📝

@@ -72,18 +72,12 @@
 
   * **Prevendo Valores de Ações da PETR4**: https://bit.ly/36skE5J
   
-  * **Projeto ML01 (Minerando Dados):** https://bit.ly/3jmLb82
-
   * **Classificador de Música Spotify:** https://bit.ly/3l44ELf
   
   * **Clustering com Spotify:** http://bit.ly/3aSC9P5
-  
-  * **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
     
   * **Storytelling com Dados:** https://bit.ly/2GoeUiD
-          
-  * **Desafio - Lambda3:** https://bit.ly/34aK0SY
-  
+            
   * **Análise de Sentimento (twitter):** https://bit.ly/2GVt1fQ
 
   * **Análise de Dados (Airbnb - Rio de Janeiro):** https://bit.ly/2MACyLK

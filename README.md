@@ -79,9 +79,7 @@
   * **Clustering com Spotify:** http://bit.ly/3aSC9P5
   
   * **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
-  
-  * **Extração de Tabela de um PDF:** https://bit.ly/36n2nqs
-  
+    
   * **Storytelling com Dados:** https://bit.ly/2GoeUiD
           
   * **Desafio - Lambda3:** https://bit.ly/34aK0SY

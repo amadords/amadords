@@ -83,6 +83,8 @@
   * **Análise de Dados (Airbnb - Rio de Janeiro):** https://bit.ly/2MACyLK
   
   * **Análise da Violência no Rio de Janeiro:** http://bit.ly/3aE24Id
+  
+  * **Previsão de TurnOver:** http://bit.ly/2NaB8Yt
 
   
   ## Artigos 📝

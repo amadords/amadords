@@ -85,6 +85,8 @@
   * **Análise da Violência no Rio de Janeiro:** http://bit.ly/3aE24Id
   
   * **Previsão de TurnOver:** http://bit.ly/2NaB8Yt
+  
+  * **Dashboad para Acidentes Aeronáuticos (Com Streamlit):** http://bit.ly/2NipL0H
 
   
   ## Artigos 📝

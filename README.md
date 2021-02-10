@@ -86,7 +86,7 @@
   
   * **Previsão de TurnOver:** http://bit.ly/2NaB8Yt
   
-  * **Dashboad para Acidentes Aeronáuticos (Com Streamlit):** http://bit.ly/2NipL0H
+  * **Data App - Acidentes Aeronáuticos (Com Streamlit):** http://bit.ly/2NipL0H
 
   
   ## Artigos 📝

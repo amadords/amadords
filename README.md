@@ -107,6 +107,8 @@
 
 * **Classificação MultiLabel:** http://bit.ly/3cgEioa
 
+* **Metodologia para Ciênia de Dados:** http://bit.ly/3qb29K2
+
  ---
 
  

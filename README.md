@@ -87,6 +87,8 @@
   * **Previsão de TurnOver:** http://bit.ly/2NaB8Yt
   
   * **Data App - Acidentes Aeronáuticos (Com Streamlit):** http://bit.ly/2NipL0H
+  
+  * **Panorama da Covid-19 no Brasil:** http://bit.ly/3rOELTg
 
   
   ## Artigos 📝

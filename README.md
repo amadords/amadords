@@ -90,6 +90,8 @@
   
   * **Panorama da Covid-19 no Brasil:** http://bit.ly/3rOELTg
 
+  * **Detecção de Fraude em Cartão de Crédito e Débito:** http://bit.ly/3pC9IIz
+
   
   ## Artigos 📝
   

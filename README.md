@@ -113,6 +113,8 @@
 
 * **Metodologia para Ciênia de Dados:** http://bit.ly/3qb29K2
 
+* **Regras de Associação:** http://bit.ly/3aXY5rH
+
  ---
 
  

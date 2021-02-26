@@ -70,27 +70,29 @@
 
 <br />
 
-  * **Prevendo Valores de Ações da PETR4**: https://bit.ly/36skE5J
+* **Prevendo Valores de Ações da PETR4**: https://bit.ly/36skE5J
   
-  * **Classificador de Música Spotify:** https://bit.ly/3l44ELf
+* **Classificador de Música Spotify:** https://bit.ly/3l44ELf
   
-  * **Clustering com Spotify:** http://bit.ly/3aSC9P5
+* **Clustering com Spotify:** http://bit.ly/3aSC9P5
     
-  * **Storytelling com Dados:** https://bit.ly/2GoeUiD
-            
-  * **Análise de Sentimento (twitter):** https://bit.ly/2GVt1fQ
+* **Storytelling com Dados:** https://bit.ly/2GoeUiD
+          
+* **Análise de Sentimento (twitter):** https://bit.ly/2GVt1fQ
 
-  * **Análise de Dados (Airbnb - Rio de Janeiro):** https://bit.ly/2MACyLK
-  
-  * **Análise da Violência no Rio de Janeiro:** http://bit.ly/3aE24Id
-  
-  * **Previsão de TurnOver:** http://bit.ly/2NaB8Yt
-  
-  * **Data App - Acidentes Aeronáuticos (Com Streamlit):** http://bit.ly/2NipL0H
-  
-  * **Panorama da Covid-19 no Brasil:** http://bit.ly/3rOELTg
+* **Análise de Dados (Airbnb - Rio de Janeiro):** https://bit.ly/2MACyLK
 
-  * **Detecção de Fraude em Cartão de Crédito e Débito:** http://bit.ly/3pC9IIz
+* **Análise de Dados (Airbnb - Lisboa:** http://bit.ly/3qYE8GF
+  
+* **Análise da Violência no Rio de Janeiro:** http://bit.ly/3aE24Id
+  
+* **Previsão de TurnOver:** http://bit.ly/2NaB8Yt
+  
+* **Data App - Acidentes Aeronáuticos (Com Streamlit):** http://bit.ly/2NipL0H
+  
+* **Panorama da Covid-19 no Brasil:** http://bit.ly/3rOELTg
+
+* **Detecção de Fraude em Cartão de Crédito e Débito:** http://bit.ly/3pC9IIz
 
   
   ## Artigos 📝

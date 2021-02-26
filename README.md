@@ -82,7 +82,7 @@
 
 * **Análise de Dados (Airbnb - Rio de Janeiro):** https://bit.ly/2MACyLK
 
-* **Análise de Dados (Airbnb - Lisboa:** http://bit.ly/3qYE8GF
+* **Análise de Dados (Airbnb - Lisboa):** http://bit.ly/3qYE8GF
   
 * **Análise da Violência no Rio de Janeiro:** http://bit.ly/3aE24Id
   

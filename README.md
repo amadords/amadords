@@ -111,7 +111,7 @@
 
 * **Classificação MultiLabel:** http://bit.ly/3cgEioa
 
-* **Metodologia para Ciênia de Dados:** http://bit.ly/3qb29K2
+* **Metodologia para Ciência de Dados:** http://bit.ly/3qb29K2
 
 * **Regras de Associação:** http://bit.ly/3aXY5rH
 

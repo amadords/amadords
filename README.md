@@ -98,6 +98,8 @@
 
 * **Churn Prediction para Telecom:** http://bit.ly/3uEO7Ty
 
+* **Previsão de Adoção de Animais:** http://bit.ly/2PkO4wl
+
   
   ## Artigos 📝
   

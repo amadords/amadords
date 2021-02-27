@@ -96,6 +96,8 @@
 
 * **Detecção de Fraude em Cartão de Crédito e Débito:** http://bit.ly/3pC9IIz
 
+* **Churn Prediction para Telecom:** http://bit.ly/3uEO7Ty
+
   
   ## Artigos 📝
   

@@ -123,6 +123,8 @@
 
 * **Regras de Associação:** http://bit.ly/3aXY5rH
 
+* **CRM e Ciência de Dados:** http://bit.ly/3cbzIqK
+
  ---
 
  

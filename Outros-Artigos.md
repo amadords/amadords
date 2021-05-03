@@ -24,6 +24,8 @@
 
 * **Por que estar no LinkedIn?:** http://bit.ly/37vxpgd
 
+* **Por que abandonei a Ciência de Dados?:** https://bit.ly/33aRPYJ
+
 
 
 
